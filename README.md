@@ -22,7 +22,6 @@ Reproducible SVNHFS benchmark code for the paper
 **Option A — Google Colab**
 1. Open `Neutrosophic_Decision_Making_Models.ipynb` in Colab.
 2. Run all cells.
-3. Copy the LaTeX tables from the output into the manuscript.
 
 **Option B — Local Jupyter**
 1. Clone/download the repository.
